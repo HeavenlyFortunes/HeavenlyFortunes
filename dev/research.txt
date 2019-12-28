@@ -1,0 +1,1 @@
+https://stackoverflow.blog/2019/12/02/preventing-the-top-security-weaknesses-found-in-stack-overflow-code-snippets/
